@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PendaftaranEventMahasiswa</string>
+    <string-array name="namaevent">
+        <item>Tax Goes To campus</item>
+        <item>Coding with arduino</item>
+        <item>Google Developer Workshop</item>
+        <item>Mabar Mobile Lejen Moontod</item>
+    </string-array>
+</resources>
